@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush786hack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h2 align="left">#Connect with me</h2>
+
 ###
 
 <div align="left">
@@ -87,7 +89,9 @@
 
 ###
 
-<p align="left">-Email : ayushtiwari92205@gmail.com<br>-LinkkedIn:</p>
+<p align="left">-Email : ayushtiwari92205@gmail.com<br>-LinkkedIn:[Ayush]/https://www.linkedin.com/in/ayush-tiwari-3b1457330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
+
+
 
 ###
 
