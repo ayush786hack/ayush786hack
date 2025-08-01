@@ -89,7 +89,7 @@
 
 ###
 
-<p align="left">-Email : ayushtiwari92205@gmail.com<br>-LinkkedIn:[Ayush]/https://www.linkedin.com/in/ayush-tiwari-3b1457330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
+<p align="left">-Email : ayushtiwari92205@gmail.com<br>-LinkkedIn:[Ayush Tiwari](https://www.linkedin.com/in/ayush-tiwari-3b1457330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</p>
 
 
 
