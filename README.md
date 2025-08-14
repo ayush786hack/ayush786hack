@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush Tiwari and I'm a cse student from India</h2>
+<h2 align="left">Hi 👋! My name is Ayush Tiwari and I'm a cse student from India looking forward to collaborate &team ups & participating hackathons</h2>
 
 ###
 
