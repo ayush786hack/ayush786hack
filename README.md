@@ -1,7 +1,7 @@
-<h2 align="left">Hey 👋 I'm Ayush  
-CSE student from India 🇮🇳  
-I came here to create, not just to exist ⚡  
-Everything I build is proof I was here 🚀</h2>
+<h2 align="left">Hey 👋 I'm Ayush<br>
+CSE Student from India 🇮🇳<br>
+Building the future I caught a glimpse of 7 years ago 🚀
+</h2>
 
 ###
 
