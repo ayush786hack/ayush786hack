@@ -1,6 +1,10 @@
 <h2 align="left">Hey 👋 I'm Ayush<br>
-CSE Student from India 🇮🇳<br>
-Building the future I caught a glimpse of 7 years ago 🚀
+💻 MERN Stack Developer
+🎓 B.Tech CSE Student
+🏅 Campus Mantri @ GeeksforGeeks
+<br>
+🚀 Building impactful web applications
+🌱 Currently learning DSA, System Design & Open Source 🚀
 </h2>
 
 ###
