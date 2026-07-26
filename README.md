@@ -50,18 +50,31 @@
 
 ## My Contribution Graph
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/ayush786hack/ayush786hack/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush786hack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8A2BE2&point=ffffff" width="95%"/>
-</div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush786hack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8A2BE2&point=FFFFFF" alt="GitHub Activity Graph" width="95%" />
+
+</div>
 ###
 
 <h3 align="left">##Goals</h3>
