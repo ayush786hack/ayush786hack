@@ -1,20 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:22D3EE&height=220&section=header&text=Ayush%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Building%20in%20Public&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8A2BE2,100:22D3EE&height=220&section=header&text=Ayush%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IoT%20%26%20Systems%20Builder%20%7C%20Shipping%20in%20Public&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/ayush786hack">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=React+%2B+Next.js+%2B+Node.js;Java+%7C+Python+%7C+C%2B%2B;Shipping+at+hackathons+%E2%9A%A1;Currently+learning+Three.js+%2B+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end+to+end;React+%2B+Node.js+%2B+PostgreSQL+%2B+MongoDB;IoT+%2B+Hardware+%7C+LoRa+%7C+Sensor+Systems;Currently+deep+in+Three.js+%2B+System+Design" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayush786hack&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ayush786hack&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" alt="profile views"/>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayushtiwari92205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
+<br/>
 
+## About Me
 
+```javascript
+const ayushTiwari = {
+  role: "Computer Science Engineering Student & Full-Stack Developer",
+  location: "India",
+  currentFocus: ["Vastramaya — production e-commerce platform", "System Design", "IoT + AI integration"],
+  stack: {
+    languages: ["Java", "JavaScript"],
+    frontend: ["React", "Next.js", "Redux", "Tailwind CSS", "Three.js"],
+    backend: ["Node.js", "Express.js", "Spring Boot"],
+    databases: ["PostgreSQL", "MongoDB"],
+    infra: ["Docker", "Render", "Cloudinary", "Razorpay", "WebRTC"],
+  },
+  roles: ["GeeksforGeeks Campus Mantri", "IEEE HART Intelligent Hardware Initiative"],
+  currentlyLearning: "Distributed systems & scalable backend architecture",
+  funFact: "Debugs production APIs and solder joints with equal enthusiasm",
+};
+```
 
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -28,18 +50,18 @@
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,threejs" />
 
 </td>
 <td valign="top" width="50%">
 
 **Backend & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,supabase" />
 
-**Tooling**
+**Tooling & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,npm" />
 
 </td>
 </tr>
@@ -47,8 +69,70 @@
 
 <br/>
 
+## 🚀 Featured Projects
 
-## My Contribution Graph
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🥻 [Vastramaya](https://github.com/ayush786hack)
+Full-stack saree e-commerce platform — admin panel, storefront, Razorpay payments with signature verification, shipping/tracking webhooks, and wishlist.
+
+`React` `Redux` `Node.js` `Express` `PostgreSQL` `Razorpay` `Cloudinary`
+
+</td>
+<td width="50%">
+
+### 📹 Synchora
+Real-time video calling app with room management, live chat, and WebRTC signaling over Socket.IO.
+
+`React` `Vite` `Socket.IO` `WebRTC` `Node.js` `MongoDB`
+
+</td>
+</tr>
+
+</td>
+
+<tr>
+<td width="50%">
+
+### 🌍 WanderLust
+Travel/exploration project — see repo for details.
+
+`Full Stack`
+
+</td>
+<td width="50%">
+
+### 🖥️ Java Git CLI
+A reimplementation of core Git commands from scratch in Java, exploring version control internals.
+
+`Java` `CLI` `Systems Programming`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<i>More on <a href="https://github.com/ayush786hack?tab=repositories">github.com/ayush786hack</a></i>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayush786hack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush786hack&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8A2BE2&currStreakLabel=22D3EE" width="48%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush786hack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" width="48%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -68,30 +152,26 @@
   </picture>
 </p>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush786hack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8A2BE2&point=FFFFFF" alt="GitHub Activity Graph" width="95%" />
+</div>
+
 <br/>
 
-<div align="center">
+## 🎯 Goals
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush786hack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8A2BE2&point=FFFFFF" alt="GitHub Activity Graph" width="95%" />
+- Build complete backend systems with robust auth, databases, and APIs
+- Deepen AI/ML skills through real-world, production-grade applications
+- Participate in more hackathons and learn from cross-functional teams
+- Contribute meaningfully to open source
 
-</div>
-###
+## 🤝 Open To
 
-<h3 align="left">##Goals</h3>
+- Collaboration on AI, backend, or IoT projects
+- Hackathon team-ups
+- Open source contributions (learning stage, eager to grow)
 
-###
-
-<p align="left">-Build complete backend systems with auth,databases and APIs<br>-learn &Improve AI/ML skills through real world applications.<br>-participate in more hackathons and learn from real teams<br>-Contribute to open source and work  with others on useful tech.</p>
-
-###
-
-<h3 align="left">#Open To</h3>
-
-###
-
-<p align="left">-Collaboration on AI backend or IOT projects.<br>-Hackathons team ups.<br>-open source contributions(learning stage).</p>
-
-###
+<br/>
 
 ## 📫 Let's Connect
 
@@ -103,10 +183,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8A2BE2&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <img height="202" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21rZTMzNmhwcHJzbDNhbnI0bnE2eG82MHFlbjdiazhqMWxzaGRidiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-</div>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8A2BE2,100:0F172A&height=100&section=footer" width="100%"/>
